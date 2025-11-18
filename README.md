@@ -59,23 +59,18 @@ Configuration: 1s² 2s² 2p⁴
 
 ## 🧩 How to Run
 
-### 1️⃣ **Clone the Repository**
+### 1 **Clone the Repository**
 
 ```bash
 git clone https://github.com/himalipatil25/periodic-table-explorer.git
 ```
 
-### 2️⃣ Navigate to the Folder
 
-```bash
-cd periodic-table-explorer
-```
-
-### 3️⃣ Run the Script
+### 2 Run the Script
 
 ```bash
 
-python periodic_table.py
+python periodic_table_explorer.py
 ```
 💡 Tkinter comes pre-installed with Python — no extra installation needed!
 
