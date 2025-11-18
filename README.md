@@ -51,8 +51,9 @@ Period: 2
 Category: Nonmetal
 Configuration: 1s² 2s² 2p⁴
 ```
-<img width="565" height="836" alt="AdobeExpressPhotos_3cb3e9a9737a4c9780d0ab88afe75c2e_CopyEdited" src="https://github.com/user-attachments/assets/11bf9910-a3b8-4e46-aded-5341aece97a0" />
-
+<p align="center">
+ <img width="565" height="836" alt="AdobeExpressPhotos_3cb3e9a9737a4c9780d0ab88afe75c2e_CopyEdited" src="https://github.com/user-attachments/assets/11bf9910-a3b8-4e46-aded-5341aece97a0" />
+</p>
 
 ---
 
